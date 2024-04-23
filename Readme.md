@@ -2,19 +2,22 @@ Patient Monitoring System
 
 Requirements:
 
-Software:
+  Software:
 
-Python IDLE
+  Python IDLE
 
-Arduino IDE
+  Arduino IDE
 
-XAMPP
+  XAMPP
 
 Components:
 
-ESP8266
+  ESP8266
 
-Temperature Sensor(DS18B20)
+  Temperature Sensor(DS18B20)
 
-Pulse sensor
+  Pulse sensor
 
+Step 1: Unzip the code given...
+
+Step 2: 
