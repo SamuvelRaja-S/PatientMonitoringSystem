@@ -1,3 +1,20 @@
 Patient Monitoring System
 
-First Unzip the patient.zip file.
+Requirements:
+
+Software:
+
+Python IDLE
+
+Arduino IDE
+
+XAMPP
+
+Components:
+
+ESP8266
+
+Temperature Sensor(DS18B20)
+
+Pulse sensor
+
